@@ -1,6 +1,6 @@
 ## INFO ##
-Name: Sangbin Kim 
-Nick: fr0m1s9 
-Team: DEMON 
+* Name: Sangbin Kim
+* Nick: fr0m1s9
+* Team: DEMON 
 
 
