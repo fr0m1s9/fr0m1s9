@@ -3,7 +3,7 @@
 * Nick: fr0m1s9
 * Team: DEMON
 * KUS AICS 22th
-* KITRI BOB 13th Vulnerability Analysis Track (Project Team: Prison Breaker)
+* KITRI BOB 13th Vulnerability Analysis Track (Project Team: Prison Break)
 
 ## CVE ##
 * [Xpdf: CVE-2024-3900](https://www.xpdfreader.com/security-bug/CVE-2024-3900.html)
