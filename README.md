@@ -7,6 +7,8 @@
 
 ## CVE ##
 * [Xpdf: CVE-2024-3900](https://www.xpdfreader.com/security-bug/CVE-2024-3900.html)
+* [VirtualBox (Team Prison Break): CVE-2025-53024](https://www.oracle.com/security-alerts/cpujul2025.html)
+* [VirtualBox (Team Prison Break): ZDI-CAN-27241](https://www.zerodayinitiative.com/advisories/upcoming/)
 
 ## AWARD ##
 * 2024 충청권 사이버 보안 경진대회 4th (team: 차돌짬뽕탕수육세트)
