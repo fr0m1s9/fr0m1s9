@@ -2,6 +2,7 @@
 * Name: Sangbin Kim
 * Nick: fr0m1s9
 * Team: DEMON
+* CTF Team: DeadSec
 * KUS AICS 22th 
 
 ## AWARD ##
