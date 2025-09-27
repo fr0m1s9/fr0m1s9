@@ -5,6 +5,7 @@
 * CTF Team: DeadSec
 * KUS AICS 22th
 * Twitters(x.com): [@fr0m1s9__](https://x.com/fr0m1s9__)
+* LinkedIn: [김상빈](https://www.linkedin.com/in/%EC%83%81%EB%B9%88-%EA%B9%80-4752a7352/)
 
 ## AWARD ##
 * 2024 교내 사이버보안 대회 (KCTF) 은상
