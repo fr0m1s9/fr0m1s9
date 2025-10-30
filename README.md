@@ -17,21 +17,32 @@
 * 2025 PWN2OWN BERLIN WIN (Prison Break)
 * 2025 Vulnability Research Club (Project Team: VMBreakers)
 
-# CVE #
-## XPDF ##
-* [CVE-2024-3900](https://www.xpdfreader.com/security-bug/CVE-2024-3900.html)
+# CVE 
 
-## VirtualBox ##
-### Prison Break ###
-* [CVE-2025-53024](https://www.oracle.com/security-alerts/cpujul2025.html)
-* [CVE-2025-61759](https://www.zerodayinitiative.com/advisories/ZDI-25-957/)
+<details>
+<summary>📘 XPDF</summary>
 
-### VMBreakers ###
-* [CVE-2025-62591](https://www.zerodayinitiative.com/advisories/ZDI-25-958/)
-* [CVE-2025-62641](https://www.zerodayinitiative.com/advisories/ZDI-25-961/)
-* [CVE-2025-62589](https://www.zerodayinitiative.com/advisories/ZDI-25-962/)
-* [CVE-2025-62588](https://www.zerodayinitiative.com/advisories/ZDI-25-959/)
-* [CVE-2025-62590](https://www.zerodayinitiative.com/advisories/ZDI-25-960/)
-* [ZDI-CAN-27923](https://www.zerodayinitiative.com/advisories/upcoming/)
-* [ZDI-CAN-27925](https://www.zerodayinitiative.com/advisories/upcoming/)
-* [ZDI-CAN-27870](https://www.zerodayinitiative.com/advisories/upcoming/)
+- **[CVE-2024-3900](https://www.xpdfreader.com/security-bug/CVE-2024-3900.html)**
+
+</details>
+
+<details>
+<summary>🖥 VirtualBox – Prison Break</summary>
+
+- [CVE-2025-53024](https://www.oracle.com/security-alerts/cpujul2025.html)
+- [CVE-2025-61759](https://www.zerodayinitiative.com/advisories/ZDI-25-957/)
+
+</details>
+
+<details>
+<summary>🧨 VirtualBox – VMBreakers</summary>
+
+- [CVE-2025-62591](https://www.zerodayinitiative.com/advisories/ZDI-25-958/)
+- [CVE-2025-62641](https://www.zerodayinitiative.com/advisories/ZDI-25-961/)
+- [CVE-2025-62589](https://www.zerodayinitiative.com/advisories/ZDI-25-962/)
+- [CVE-2025-62588](https://www.zerodayinitiative.com/advisories/ZDI-25-959/)
+- [CVE-2025-62590](https://www.zerodayinitiative.com/advisories/ZDI-25-960/)
+- *Upcoming:* [ZDI-CAN-27923](https://www.zerodayinitiative.com/advisories/upcoming/), [ZDI-CAN-27925](https://www.zerodayinitiative.com/advisories/upcoming/), [ZDI-CAN-27870](https://www.zerodayinitiative.com/advisories/upcoming/)
+
+</details>
+
