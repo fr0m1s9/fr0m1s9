@@ -4,7 +4,7 @@
 
 # Affiliation #
 * CTF Team: DeadSec (2025.09 ~ present)
-* Team: DEMON (2025.01 ~ present)
+* Team: DEMON (2025.02 ~ present)
 * KUS AICS 22th (2022.03 ~ present)
 
 # AWARD #
